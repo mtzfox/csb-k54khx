@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/style.css"],"names":[],"mappings":"AAAA,MACE,mBACF,CAEA,KACE,cAAe,CACf,aAAuB,CAAvB,sBACF,CAEA,KACE,kBACF","file":"main.989f8a4c.chunk.css","sourcesContent":[":root {\n  --body-text: rgb(36, 35, 35);\n}\n\nbody {\n  margin: 5vw 5vh;\n  color: var(--body-text);\n}\n\n.app {\n  background: lightgray;\n}\n"]}

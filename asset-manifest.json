@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "https://mtzfox.github.io/csb-k54khx/static/css/main.989f8a4c.chunk.css",
+    "main.js": "https://mtzfox.github.io/csb-k54khx/static/js/main.326db02d.chunk.js",
+    "main.js.map": "https://mtzfox.github.io/csb-k54khx/static/js/main.326db02d.chunk.js.map",
+    "runtime-main.js": "https://mtzfox.github.io/csb-k54khx/static/js/runtime-main.f4cfb51a.js",
+    "runtime-main.js.map": "https://mtzfox.github.io/csb-k54khx/static/js/runtime-main.f4cfb51a.js.map",
+    "static/css/2.c94a6a71.chunk.css": "https://mtzfox.github.io/csb-k54khx/static/css/2.c94a6a71.chunk.css",
+    "static/js/2.fe3c2116.chunk.js": "https://mtzfox.github.io/csb-k54khx/static/js/2.fe3c2116.chunk.js",
+    "static/js/2.fe3c2116.chunk.js.map": "https://mtzfox.github.io/csb-k54khx/static/js/2.fe3c2116.chunk.js.map",
+    "index.html": "https://mtzfox.github.io/csb-k54khx/index.html",
+    "static/css/2.c94a6a71.chunk.css.map": "https://mtzfox.github.io/csb-k54khx/static/css/2.c94a6a71.chunk.css.map",
+    "static/css/main.989f8a4c.chunk.css.map": "https://mtzfox.github.io/csb-k54khx/static/css/main.989f8a4c.chunk.css.map",
+    "static/js/2.fe3c2116.chunk.js.LICENSE.txt": "https://mtzfox.github.io/csb-k54khx/static/js/2.fe3c2116.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "https://mtzfox.github.io/csb-k54khx/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/thumb.png": "https://mtzfox.github.io/csb-k54khx/static/media/thumb.4af02029.png",
+    "static/media/thumb1.png": "https://mtzfox.github.io/csb-k54khx/static/media/thumb1.3d97cf9d.png",
+    "static/media/thumb2.png": "https://mtzfox.github.io/csb-k54khx/static/media/thumb2.598903d0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4cfb51a.js",
+    "static/css/2.c94a6a71.chunk.css",
+    "static/js/2.fe3c2116.chunk.js",
+    "static/css/main.989f8a4c.chunk.css",
+    "static/js/main.326db02d.chunk.js"
+  ]
+}
